@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/myimg">
+        <file>1122.jpg</file>
+        <file>12.png</file>
+        <file>1126.jpg</file>
+        <file>background3.jpg</file>
+        <file>new.png</file>
+        <file>pass.png</file>
+        <file>qq.png</file>
+        <file>qqq.png</file>
+        <file>wap.png</file>
+    </qresource>
+</RCC>
